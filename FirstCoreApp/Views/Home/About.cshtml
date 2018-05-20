@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "About Sri Ram Software Solutions";
+}
+@*<h2>@ViewData["Title"]</h2>
+    <h3>@ViewData["Message"]</h3>*@
+<canvas id="myCanvas" width="515" height="100"></canvas>
+
+<script>
+    var canvas = document.getElementById("myCanvas");
+    var ctx = canvas.getContext('2d');
+    ctx.shadowColor = "rgb(190, 190, 190)";
+    ctx.shadowOffsetX = 10;
+    ctx.shadowOffsetY = 10
+    ctx.shadowBlur = 10;
+    ctx.font = "40px arial";
+    var gradient = ctx.createLinearGradient(0, 0, 170, 120);
+    gradient.addColorStop(0, "rgb(220, 40, 228)");
+    gradient.addColorStop(1, "rgb(205, 13, 24)");
+    ctx.fillStyle = gradient;
+    ctx.fillText("Sri Ram Software Solutions", 10, 80);
+</script>
+<p>
+    More than 10 years of experience in designing, developing and architecting appications in Microsoft Corporation - Hyderabad-India, started up a company Sri Ram Software Solutions to provide service to variety of industries so that they can enjoy the benefits of latest technology, innovate and grow faster.
+</p>
+<p>
+    The solution is targeted at enterprises of different sizes, with tens to hundreds of employees and few to hundreds of workstations, such as holding companies and multi-level companies. The system includes modern international enterprise management methods as well as the experience accumulated by SRS itself and its partners in automating manufacturing enterprises.
+</p>
+<p>
+    Sri Ram Software provides solutions for various type of industries.
+</p>
+
+<div class="row" >
+    <div class="col-md-3">
+        <h2 style="color:#400080">Software for Manufacturing Industries</h2>
+        <ul style="color:#ff1a1a">
+            <li> Spinning Mills </li>
+            <li> Foundry and Assembling Industries </li>
+            <li> Oil Manufacturing Companies </li>
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <h2 style="color:#ff1a1a">Software for Educational Institutions</h2>
+        <ul style="color:#004d4d">
+            <li>Arts & Science Colleges</li>
+            <li>Engineering Colleges</li>
+            <li>Schools</li>
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <h2 style="color:#004d4d">CRM Software for Sales & Distributors</h2>
+        <ul style="color:#400080">
+            <li>Sales & Marketing Agencies</li>
+            <li>Distributors</li>
+            <li>Stockists</li>
+        </ul>
+    </div>
+
+</div>

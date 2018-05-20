@@ -1,0 +1,11 @@
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.0\SriRamSoftwareSolutions.deps.json
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.0\SriRamSoftwareSolutions.runtimeconfig.json
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.0\SriRamSoftwareSolutions.runtimeconfig.dev.json
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.0\SriRamSoftwareSolutions.dll
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\bin\Debug\netcoreapp2.0\SriRamSoftwareSolutions.pdb
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.0\SriRamSoftwareSolutions.csprojAssemblyReference.cache
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.0\SriRamSoftwareSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.0\SriRamSoftwareSolutions.AssemblyInfoInputs.cache
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.0\SriRamSoftwareSolutions.AssemblyInfo.cs
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.0\SriRamSoftwareSolutions.dll
+C:\Users\Prakash\Source\Repos\FirstCoreApp\FirstCoreApp\obj\Debug\netcoreapp2.0\SriRamSoftwareSolutions.pdb
